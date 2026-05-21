@@ -147,14 +147,14 @@ MIT License - see LICENSE file for details
 
 ## Author
 
-Created by Juliet - bridging legal frameworks, technical systems, and strategic thinking.
+Created by Fiorella - bridging legal frameworks, technical systems, and strategic thinking.
 
 ## Citation
 
 If you use this framework in academic work, please cite:
 ```
 Multi-Dimensional Contextual Matrix (MDCM)
-https://github.com/julietgalliano/mdcm-workflow
+https://github.com/fiorellasiebe/mdcm-workflow
 ```
 
 ## Support
